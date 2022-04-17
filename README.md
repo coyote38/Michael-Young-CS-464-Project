@@ -1,1 +1,3 @@
 # Michael-Young-CS-464-Project
+
+This is a project which aims to study on the effects of midair jump control on ease of play and enjoyment in a 2D platformer. It is also a game. In order to play it, simply use the A and D keys to move and the J key to jump. Try to reach the yellow square at the top of the platform tower! The twist is that there are two modes of play: you either have the ability to control your trajectory in midair, or you don't. Try to get the best time possible. Project still in early stages of development, features to come will include timer, automatically switching between control methods (for now you have to change the script the object PlayerChar is associated with from MoveCharacter to LimitedJump to change control schemes), and a win screen.
